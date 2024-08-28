@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edb6f634-f9c6-4c42-a697-7c3faf5aa6f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewer/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewer/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewer/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewer/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewer/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewer/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
