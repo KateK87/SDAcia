@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edb6f634-f9c6-4c42-a697-7c3faf5aa6f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDAcia/SDAcia/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDAcia/SDAcia/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDAcia/SDAcia/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDAcia/SDAcia/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDAcia/SDAcia/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDAcia/manage.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +24,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kater/Plocha/SDAcia"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kater/Plocha/SDAcia&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
