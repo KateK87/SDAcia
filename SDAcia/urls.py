@@ -18,12 +18,14 @@ from django.contrib import admin
 from django.urls import path
 
 
-from viewer.models import Brand, BodyType, Car
+from viewer.models import Brand, BodyType, Car, CarOffer, CommentOffer
 
 
 admin.site.register(Brand)
 admin.site.register(BodyType)
 admin.site.register(Car)
+admin.site.register(CarOffer)
+admin.site.register(CommentOffer)
 
 
 urlpatterns = [

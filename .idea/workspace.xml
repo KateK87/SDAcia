@@ -7,6 +7,7 @@
     <list default="true" id="edb6f634-f9c6-4c42-a697-7c3faf5aa6f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SDAcia/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SDAcia/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/viewer/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/viewer/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
