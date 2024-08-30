@@ -18,12 +18,16 @@ from django.contrib import admin
 from django.urls import path
 
 
+from viewer.models import Brand, BodyType, Car
+
+
+admin.site.register(Brand)
+admin.site.register(BodyType)
+admin.site.register(Car)
+
+
 urlpatterns = [
     path('admin/', admin.site.urls)
 ]
 
 
-
-urlpatterns = [
-    path('admin/', admin.site.urls),
-]
